@@ -1,0 +1,41 @@
+[
+  {
+    "id": "23f92749-9ad8-4b16-9d87-9aebec3c40dd",
+    "text": "lecture is resheduled for 8pm",
+    "completed": false,
+    "priority": "high",
+    "due_date": "2025-07-30T22:30:00",
+    "due_time": "22:30",
+    "created_at": "2025-07-30T21:23:43.544765",
+    "notes": "This is mandatory",
+    "completed_at": null,
+    "updated_at": "2025-07-30T21:24:09.873003"
+  },
+  {
+    "id": "bceca9aa-9a60-47a0-ae90-66d5577a7631",
+    "text": "Welcome to your Futuristic Todo App! \ud83d\ude80",
+    "completed": false,
+    "priority": "high",
+    "due_date": "2025-08-06T17:37:35.252209",
+    "created_at": "2025-07-30T17:37:35.252231",
+    "notes": "This is your first mission. You can edit, complete, or delete tasks using the action buttons."
+  },
+  {
+    "id": "9a7511a7-3fa9-4a4d-9788-a6c6da7bdc31",
+    "text": "Explore all the amazing features",
+    "completed": false,
+    "priority": "medium",
+    "due_date": null,
+    "created_at": "2025-07-30T17:36:35.252239",
+    "notes": "Try different priorities, search functionality, and data export/import!"
+  },
+  {
+    "id": "483bd117-b3cf-47a8-bbb9-7ef18ffca883",
+    "text": "Customize your workspace",
+    "completed": true,
+    "priority": "low",
+    "due_date": null,
+    "created_at": "2025-07-30T17:35:35.252246",
+    "notes": "You can toggle themes and manage your tasks efficiently."
+  }
+]

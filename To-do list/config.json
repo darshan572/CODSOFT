@@ -1,0 +1,46 @@
+{
+  "app_config": {
+    "window_title": "🚀 CYBER TODO - Futuristic Task Manager",
+    "window_size": "1200x800",
+    "auto_save": true,
+    "show_welcome_tasks": true,
+    "date_format": "%Y-%m-%d",
+    "time_format": "%H:%M"
+  },
+  "theme": {
+    "name": "cyberpunk_dark",
+    "colors": {
+      "bg_primary": "#0a0a0a",
+      "bg_secondary": "#111111", 
+      "bg_card": "#1a1a2e",
+      "accent_cyan": "#00ffff",
+      "accent_magenta": "#ff00ff",
+      "accent_yellow": "#ffff00",
+      "text_primary": "#ffffff",
+      "text_secondary": "#b0b0b0",
+      "success": "#00ff00",
+      "warning": "#ff9500",
+      "error": "#ff0040",
+      "border": "#333333"
+    }
+  },
+  "features": {
+    "enable_notifications": true,
+    "enable_sound_effects": false,
+    "enable_animations": true,
+    "auto_backup": true,
+    "backup_interval_minutes": 30
+  },
+  "keyboard_shortcuts": {
+    "new_task": "Ctrl+N",
+    "quit_app": "Ctrl+Q", 
+    "refresh": "F5",
+    "search_focus": "Ctrl+F",
+    "save": "Ctrl+S"
+  },
+  "data": {
+    "data_file": "futuristic_todos.json",
+    "backup_folder": "backups/",
+    "export_format": "json"
+  }
+}
