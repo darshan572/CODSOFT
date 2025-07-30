@@ -41,5 +41,5 @@ A simple and user-friendly **To-Do List application** built using **Python and T
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/todo-list-gui-python.git
+   git clone https://github.com/darshan572/todo-list-gui-python.git
    cd todo-list-gui-python
